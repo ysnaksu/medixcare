@@ -1,2 +1,3 @@
 # medixcare
 MedixCare is a Salesforce-based CRM application designed for hospital administration. It manages doctors, patients, medications, bed assignments, and death reports. Using custom objects and automated Flows, the app streamlines hospital operations, improves medication tracking, and supports efficient healthcare management.
+MedixCare was developed as a group project using Jira for task and sprint management. The team worked in a real workplace-style setup with developers, users, and a mentor. A Jira-like tracking app was built on Salesforce to manage requirements, workflows, and progress efficiently.
