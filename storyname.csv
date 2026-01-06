@@ -1,0 +1,179 @@
+_,Id,Story_Name__c
+[Story__c],a01am00000cUPMTAA4,New Object | Doctor
+[Story__c],a01am00000cV94MAAS,New Object | Appoinment
+[Story__c],a01am00000cV9SYAA0,New Profiles | Doctors
+[Story__c],a01am00000cV9txAAC,New Object | Patient
+[Story__c],a01am00000cVA3dAAG,New Object | Schedule
+[Story__c],a01am00000cVAV4AAO,New Object | Diagnosis
+[Story__c],a01am00000cVAekAAG,New Object | Birth Report
+[Story__c],a01am00000cVAhxAAG,New Object | Prescription
+[Story__c],a01am00000cVArdAAG,New Object | Medicine Assign
+[Story__c],a01am00000cVBEDAA4,New Object | Patient Case Study
+[Story__c],a01am00000cVBPVAA4,New Object | Death Report
+[Story__c],a01am00000cVBULAA4,New Object | Operation Report
+[Story__c],a01am00000cVBVxAAO,New Object | Bed Assign
+[Story__c],a01am00000cVBe1AAG,New Object | Bed
+[Story__c],a01am00000cVCOnAAO,New App | MedixCare
+[Story__c],a01am00000cVD7xAAG,New Object | Medicine Category
+[Story__c],a01am00000cVDEPAA4,New Object | Medicine
+[Story__c],a01am00000cVDKrAAO,New Profiles | Pharmacist
+[Story__c],a01am00000cVDPhAAO,New Profiles | Receptionist
+[Story__c],a01am00000cVDZNAA4,New Object | MC Invoice
+[Story__c],a01am00000cVDcbAAG,New Object | MC Payment
+[Story__c],a01am00000cY9noAAC,Dynamic Actions | Object => Appointment
+[Story__c],a01am00000cYEvXAAW,Dynamic Forms | Object => Medicine
+[Story__c],a01am00000cYF3aAAG,Dynamic Actions | Object => Birth Report
+[Story__c],a01am00000cYFpyAAG,Dynamic Actions | Object => Prescription
+[Story__c],a01am00000cYGFnAAO,Dynamic Forms | Object => Bed Assign
+[Story__c],a01am00000cYJiIAAW,Dynamic Actions | Object => Medicine
+[Story__c],a01am00000cYKGAAA4,Dynamic Forms | Object => Patient Case Study
+[Story__c],a01am00000cYPisAAG,Dynamic Actions | Object => Patient
+[Story__c],a01am00000cYPnhAAG,Dynamic Forms | Object => Doctor
+[Story__c],a01am00000cYPpJAAW,Dynamic Forms | Object => Patient
+[Story__c],a01am00000cYPqvAAG,Dynamic Forms | Object => Schedule
+[Story__c],a01am00000cYPsYAAW,Dynamic Actions | Object => Diagnosis
+[Story__c],a01am00000cYPvlAAG,Dynamic Forms | Object => Appointment
+[Story__c],a01am00000cYPxNAAW,Dynamic Forms | Object => Prescription
+[Story__c],a01am00000cYPyzAAG,Dynamic Forms | Object => Medicine Assign
+[Story__c],a01am00000cYQ0bAAG,Dynamic Forms | Object => Diagnosis
+[Story__c],a01am00000cYQAHAA4,Dynamic Forms | Object => Birth Report
+[Story__c],a01am00000cYQBtAAO,Dynamic Forms | Object => Death Report
+[Story__c],a01am00000cYQF7AAO,Dynamic Forms | Object => Operation Report
+[Story__c],a01am00000cYQGjAAO,Dynamic Forms | Object => Bed
+[Story__c],a01am00000cYQILAA4,Dynamic Forms | Object => Medicine Category
+[Story__c],a01am00000cYQLZAA4,Dynamic Forms | Object => MC Invoice
+[Story__c],a01am00000cYQNBAA4,Dynamic Forms | Object => MC Payment
+[Story__c],a01am00000cYQQPAA4,Dynamic Actions | Object => Doctor
+[Story__c],a01am00000cYQS1AAO,Dynamic Actions | Object => Schedule
+[Story__c],a01am00000cYQVFAA4,Dynamic Actions | Object => Medicine Assign
+[Story__c],a01am00000cYQVGAA4,Import Data | Patients
+[Story__c],a01am00000cYQYTAA4,Dynamic Actions | Object => Patient Case Study
+[Story__c],a01am00000cYQbhAAG,Dynamic Actions | Object => Death Report
+[Story__c],a01am00000cYQdJAAW,Dynamic Actions | Object => Operation Report
+[Story__c],a01am00000cYQevAAG,Dynamic Actions | Object => Bed Assign
+[Story__c],a01am00000cYQgXAAW,Dynamic Actions | Object => Bed
+[Story__c],a01am00000cYQlNAAW,Dynamic Actions | Object => Medicine Category
+[Story__c],a01am00000cYQmzAAG,Dynamic Actions | Object => MC Invoice
+[Story__c],a01am00000cYQobAAG,Dynamic Actions | Object => MC Payment
+[Story__c],a01am00000cYVEnAAO,Import Data | Doctors
+[Story__c],a01am00000cYVJdAAO,Validation Rule | DoctorAgeValidation
+[Story__c],a01am00000ceTWsAAM,Formula Field | Doctor | IsBirthday?
+[Story__c],a01am00000ceTYTAA2,Formula Field | Patient | IsBirthday?
+[Story__c],a01am00000ceTlNAAU,Object | Doctor | Quick Links
+[Story__c],a01am00000ceTmzAAE,Object | Patient | Quick Links
+[Story__c],a01am00000ceTrpAAE,Object | Bed | Quick Links
+[Story__c],a01am00000cmCk9AAE,New App | MedixCare Console
+[Story__c],a01am00000cmtNjAAI,Clear Home Page
+[Story__c],a01am00000cmwdJAAQ,Global Action | New Doctor
+[Story__c],a01am00000cmwevAAA,Global Action | New Patient
+[Story__c],a01am00000cmwlNAAQ,Global Action | New Schedule
+[Story__c],a01am00000cmwmzAAA,New Fields for Prescription Object
+[Story__c],a01am00000cmwrpAAA,Global Action | Birth Report
+[Story__c],a01am00000cmwtRAAQ,Global Action | Death Report
+[Story__c],a01am00000cmwwfAAA,Global Action | Medicine
+[Story__c],a01am00000cmx4kAAA,System Validation | Patient's Email is Unique and Required
+[Story__c],a01am00000cmxPiAAI,System Validation | Doctor's Email is Unique and Required
+[Story__c],a01am00000cmxazAAA,New Field | Doctor | Other Address is Same As Mailing Address
+[Story__c],a01am00000cmyf8AAA,Brand Logo | MedixCare
+[Story__c],a01am00000cuUn7AAE,Removed Unused Global Actions
+[Story__c],a01am00000cvEYDAA2,Lookup Filter | Only Female Patients
+[Story__c],a01am00000cwQidAAE,List Views | Doctor
+[Story__c],a01am00000cwRtBAAU,List Views | Patient
+[Story__c],a01am00000cwS65AAE,List Views | Patient Case Study
+[Story__c],a01am00000cwSAvAAM,List Views | Prescription
+[Story__c],a01am00000cwSIzAAM,List Views | Schedules
+[Story__c],a01am00000cwSSfAAM,List Views | Appoinment
+[Story__c],a01am00000cwSVtAAM,List Views | Medicine Category
+[Story__c],a01am00000cwSajAAE,List Views | Medicine
+[Story__c],a01am00000cwSfZAAU,List Views | Medicine Assign
+[Story__c],a01am00000cwSm1AAE,List Views | Bed Assignment
+[Story__c],a01am00000cwSvhAAE,List Views | Birth Report
+[Story__c],a01am00000cwT5NAAU,List Views | Death Report
+[Story__c],a01am00000d16eRAAQ,Removed unused components from Doctor Page
+[Story__c],a01am00000d17KMAAY,Removed unused components from Medicine Page
+[Story__c],a01am00000d1BHVAA2,Removed unused Action Buttons from Patient Page
+[Story__c],a01am00000d1BJ7AAM,Removed unused components from Patient Case Study Page
+[Story__c],a01am00000d1BNxAAM,Removed unused Action Buttons from Prescription Page
+[Story__c],a01am00000d1BUPAA2,Removed unused components from Schedule Page
+[Story__c],a01am00000d1BarAAE,Removed unused components from Appoinment Page
+[Story__c],a01am00000d1BfhAAE,Removed unused components from Medicine Category Page
+[Story__c],a01am00000d1BhKAAU,Removed unused components from Bed Assign Page
+[Story__c],a01am00000d1BivAAE,Removed unused components from Medicine Assign Page
+[Story__c],a01am00000d1BqzAAE,Removed unused components from Birth Report Page
+[Story__c],a01am00000d1BuDAAU,Removed unused components from Death Report Page
+[Story__c],a01am00000d1Bz3AAE,Removed unused components from MC Invoice Page
+[Story__c],a01am00000d1C0fAAE,Removed unused components from MC Payments Page
+[Story__c],a01am00000d1C8kAAE,New Actions Button | Patient's Page
+[Story__c],a01am00000d1CVKAA2,New Actions Button | Medicine Category Page
+[Story__c],a01am00000d1ClRAAU,New Actions Button | Doctor's Page
+[Story__c],a01am00000d1CwjAAE,New Actions Button | Medicine Page
+[Story__c],a01am00000d1CyLAAU,New Actions Button | Bed Page
+[Story__c],a01am00000d1DBFAA2,Remove Unused Buttons from List Views
+[Story__c],a01am00000dDO7iAAG,New Profiles | Public Group: Patient Case Studies
+[Story__c],a01am00000dDOnqAAG,New Profiles | Public Group: Patient Data Manager
+[Story__c],a01am00000dDTaPAAW,New Profiles | Patient Specialist
+[Story__c],a01am00000dDV9BAAW,New Profiles | Patient Specialist Users (6-10)
+[Story__c],a01am00000dDVKTAA4,New Profiles | Patient Specialist Users (1-5)
+[Story__c],a01am00000dDVKUAA4,New Profiles | Patient Specialist Users (11-15)
+[Story__c],a01am00000dDVVlAAO,New Profiles | Patient Specialist Users (16-20)
+[Story__c],a01am00000dDVYzAAO,New Profiles | Patient Specialist Users (21-24)
+[Story__c],a01am00000dDVkHAAW,New Profiles | Public Group: Patient Specialist
+[Story__c],a01am00000dDW21AAG,New Profiles | Public Group: Birth and Death Reporter
+[Story__c],a01am00000dDYtRAAW,New Permission Set | Patient Case Studies | Permissions
+[Story__c],a01am00000gMIHSAA4,List View | New Patients
+[Story__c],a01am00000gMIu9AAG,New List View | Has Missing Information
+[Story__c],a01am00000gMJ3qAAG,New Object | Nurse
+[Story__c],a01am00000gMJF7AAO,New Field | Nurse (Lookup)
+[Story__c],a01am00000gVHduAAG,New Object | Insurance
+[Story__c],a01am00000gVqmvAAC,New Field | Preferred Method of Contact
+[Story__c],a01am00000gVsgfAAC,New Field | Preferred Language
+[Story__c],a01am00000gVsn7AAC,New Field | Best Time to Contact
+[Story__c],a01am00000gVx6rAAC,New Field | Preferred Phone
+[Story__c],a01am00000gXs9VAAS,New Fields | Object: Patient
+[Story__c],a01am00000gYcqfAAC,New Object | Income Information
+[Story__c],a01am00000guFiYAAU,Highlight Panel | Doctor
+[Story__c],a01am00000gvei5AAA,New Fields | Doctor
+[Story__c],a01am00000iCbnFAAS,Managers Group 1
+[Story__c],a01am00000iCfPRAA0,Managers Group 2
+[Story__c],a01am00000iCfu5AAC,Managers Group 3
+[Story__c],a01am00000iCfxKAAS,Managers Group 4
+[Story__c],a01am00000l6Cd1AAE,Test Story 2
+[Story__c],a01am00000l6aH3AAI,Test Story
+[Story__c],a01am00000lyuViAAI,Object Patient | Potential Duplicates
+[Story__c],a01am00000lyuXJAAY,Implement Duplicate Rules for Doctor Object
+[Story__c],a01am00000lyudlAAA,Implement Duplicate Rules for Patient Object
+[Story__c],a01am00000lyudmAAA,Enable Field Tracking History for Doctor Object
+[Story__c],a01am00000lyulpAAA,Implement Duplicate Rules for Nurse Object
+[Story__c],a01am00000lyvA1AAI,Implement Duplicate Rules for Death Report Object
+[Story__c],a01am00000lyvGTAAY,Implement Duplicate Rules for Birth Report Object
+[Story__c],a01am00000lyvJiAAI,Rich Text component on Doctor's Page
+[Story__c],a01am00000lyvRlAAI,Object Doctor | Potential Duplicates
+[Story__c],a01am00000lyvTNAAY,Object Nurse | Potential Duplicates
+[Story__c],a01am00000lyvjVAAQ,Enable Field Tracking History for Patient Object
+[Story__c],a01am00000lyvoLAAQ,Enable Field Tracking History for Patient Case Study Object
+[Story__c],a01am00000lyvunAAA,Enable Field Tracking History for Appointment Object
+[Story__c],a01am00000lyw1FAAQ,MC Payment | New Field | Payment Status
+[Story__c],a01am00000lyx3lAAA,Rich Text component on MC Payment
+[Story__c],a01am00000lyxADAAY,New Formula Field | Available Today
+[Story__c],a01am00000lz5FpAAI,New Report on Home Page | Summary | Available Doctors
+[Story__c],a01am00000lz5MHAAY,New navigation Item on MedixCare | Task
+[Story__c],a01am00000mHtAvAAK,New Object | Diagnosis | List View Buttons
+[Story__c],a01am00000mHyDpAAK,Preferred Language | Default Value : English
+[Story__c],a01am00000nWXkdAAG,Adding Appointment Fields to the Highlight Panel
+[Story__c],a01am00000nWrHIAA0,Adding Medicine Assign Fields to the Highlight Panel
+[Story__c],a01am00000nWrm5AAC,Create Lookup Relationship between Prescription and Pharmacy
+[Story__c],a01am00000nWrm6AAC,Adding Bed Assign Fields to the Highlight Panel
+[Story__c],a01am00000nXDiDAAW,Doctor | Sections for the Layout
+[Story__c],a01am00000nXDiFAAW,Adding Nurse Fields to the Highlight Panel
+[Story__c],a01am00000nXG6bAAG,Patient | Sections for the Layout
+[Story__c],a01am00000nXJdzAAG,Adding Medicine Fields to the Highlight Panel
+[Story__c],a01am00000nXNw5AAG,Create and Configure a Custom Object for Pharmacies
+[Story__c],a01am00000nXdmLAAS,Adding Prescription Fields to the Highlight Panel
+[Story__c],a01am00000nXdssAAC,Adding Insurance Fields to the Highlight Panel
+[Story__c],a01am00000nXgNdAAK,Adding Schedule Fields to the Highlight Panel
+[Story__c],a01am00000nXihBAAS,Adding Medicine Category Fields to the Highlight Panel
+[Story__c],a01am00000nXjrmAAC,Adding Death Report Fields to the Highlight Panel
+[Story__c],a01am00000nXkAPAA0,Adding Birth Report Fields to the Highlight Panel
+[Story__c],a01am00000nY3FPAA0,Patient | New Section | Doctor Details
+[Story__c],a01am00000nYfULAA0,Adding Diagnosis Fields to the Highlight Panel
+[Story__c],a01am00000nZVBBAA4,Dynamic Related List (Prescription) on Patient Layout
